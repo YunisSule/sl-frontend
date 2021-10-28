@@ -1,0 +1,33 @@
+.content {
+  margin: 20px;
+}
+
+form label {
+  margin-right: 15px;
+}
+
+form input {
+  margin-right: 10px;
+}
+
+table {
+  margin-top: 20px;
+  width: 500px;
+}
+
+tr {
+  width: 100%;
+}
+
+td {
+  width: 33.3%;
+  height: auto;
+}
+
+td:last-child {
+  text-align: right;
+}
+
+td:nth-child(2) {
+  text-align: center;
+}
